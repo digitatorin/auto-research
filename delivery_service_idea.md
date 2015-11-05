@@ -5,4 +5,4 @@ Imagine if a food delivery alone costs 100INR, and if there are two or three peo
 in the passengers point of view, literally, 3 passengers can travel in an auto. If there is a food packet on the board, then the total charges can be reduced to `one by forth > payment amount per head > one by third`.
 this will be beneficial for both passenger, auto driver and also the service provider.
 
-**Expansion needed.
+*Expansion needed.*
