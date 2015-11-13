@@ -22,8 +22,9 @@ Currently I am seeing some discussions around [platform co-operatives](http://pl
 
 * How will this service generate revenue?
 * Ola's pricing strategy of paying the driver Rs. 10-20 along with a similar fee that the driver collects from the user will be hard to match.
+* Ola also buys the auto-rickshaw driver the smartphones with their app pre-installed.
 * How is Ola doing this?
 * Is Ola selling data collected by this platform?
-* Being open source, people will know what information our app collects.
+* Being open source, people will know what information our app collects if anything.
 * Will being open-source be enough of a differentiator in the market place?
 
