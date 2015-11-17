@@ -31,5 +31,31 @@ Within one year, minimum viable product to enter the market.
 
 ### Income model
 
-planning the income should be from both 
+planning the income should be from both customer and from the auto driver.
+It will not be a loss for both because of they are getting value for their money.
+
 ### Expenses Expected
+
+Expenses are divided into the following. 
+1. Server and server maintenance expenses.
+2. Certificates and certification expenses.
+3. Domain and other security related expenses.
+4. Labor expenses.
+    1. For developing the application.
+    2. For developing the infrastructure.
+    3. For maintaining the infrastructure.
+    4. For securing the infrastructure.
+
+
+## Future expansion plans
+
+1. Ride sharing of auto services.
+2. Discounted rides.
+
+
+
+---
+
+*Please make sure that this is not complete. Please edit, delete and make necessary changes to this.*
+
+** *Please make changes ASAP. Have to submit this to the officials this weekend or very first or second day of the next week* **
