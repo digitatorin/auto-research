@@ -25,6 +25,8 @@ the ongoing development and enhancement of the product and service.
 
 ## Plan
 
+*Here comes plans*
+
 ### Expected duration to complete Initial prototype
 
 Within one year, minimum viable product to enter the market.
