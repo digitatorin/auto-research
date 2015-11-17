@@ -3,4 +3,8 @@
 * [Research](research.md)
 * [Delivery Service Idea](delivery_service_idea.md)
 * [Introduction](README.md)
+* [Revenue model](revenue_model.md)
+* [Questionaire for Drivers](questionaire_for_drivers.md)
+* [Questionaire for Customers](questionaire_for_customers.md)
+* [Synopsis](synopsis.md)
 
