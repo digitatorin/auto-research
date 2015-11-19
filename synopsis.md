@@ -17,30 +17,37 @@ the ongoing development and enhancement of the product and service.
 
 ## Objectives
 
-1. Provide Auto Rickshaw a platform to increase their revenue.
-2. Provide customers easily find and use auto rickshaw rides
+1. Provide auto-rickshaw drivers a platform to increase their revenue.
+2. Provide customers easily find and use auto rickshaw rides.
 3. Provide save rides in both rural and urban areas.
 4. Increase bargain-ability of customer.
 5. Experiment on open source business model.
 
 ## Plan
 
-*Here comes plans*
-
 ### Expected duration to complete Initial prototype
 
-Within one year, minimum viable product to enter the market.
+Although it is difficult to estimate the time on something like this. We would like to start testing the service with auto drivers and customers in a years time.
 
 ### Income model
 
-planning the income should be from both customer and from the auto driver.
-It will not be a loss for both because of they are getting value for their money.
+We will be exploring multiple sources of income including:
+
+* charging the user of the application/service
+* charging the auto-driver
+* raising funds through other sources - crowd sourcing, donations etc.
 
 ### Expenses Expected
 
+Broadly the main costs of running this will be:
+
+* Development
+* Maintenance - ongoing server hosting cost, systems administration costs
+* Administration, Billing and Operations of the organization
+
 Expenses are divided into the following. 
 1. Server and server maintenance expenses.
-2. Certificates and certification expenses.
+2. Certificates and certification expenses. (what is this?)
 3. Domain and other security related expenses.
 4. Labor expenses.
     1. For developing the application.
@@ -53,7 +60,6 @@ Expenses are divided into the following.
 
 1. Ride sharing of auto services.
 2. Discounted rides.
-
 
 
 ---
