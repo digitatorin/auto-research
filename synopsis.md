@@ -27,7 +27,7 @@ the ongoing development and enhancement of the product and service.
 
 ### Expected duration to complete Initial prototype
 
-Although it is difficult to estimate the time on something like this. We would like to start testing the service with auto drivers and customers in a years time.
+We would like to start testing the service with auto drivers and customers in a years time.
 
 ### Income model
 
@@ -45,25 +45,8 @@ Broadly the main costs of running this will be:
 * Maintenance - ongoing server hosting cost, systems administration costs
 * Administration, Billing and Operations of the organization
 
-Expenses are divided into the following. 
-1. Server and server maintenance expenses.
-2. Certificates and certification expenses. (what is this?)
-3. Domain and other security related expenses.
-4. Labor expenses.
-    1. For developing the application.
-    2. For developing the infrastructure.
-    3. For maintaining the infrastructure.
-    4. For securing the infrastructure.
-
-
 ## Future expansion plans
 
 1. Ride sharing of auto services.
-2. Discounted rides.
+1. Discounted rides.
 
-
----
-
-*Please make sure that this is not complete. Please edit, delete and make necessary changes to this.*
-
-** *Please make changes ASAP. Have to submit this to the officials this weekend or very first or second day of the next week* **
