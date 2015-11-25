@@ -35,9 +35,9 @@ The workflow that we support:
 if you are interested in this project, Make donations to realize this research of making auto drivers and their families welthy.
 
 In the following way you can contribute.
-1. 
+1.  
 Become an investor .
-2. 
+2.  
 Send us some bitcoins .
 3. 
 Send us some dogecoins .
