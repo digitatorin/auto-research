@@ -9,7 +9,7 @@ Contributing by donations .
 
 We'd love to get ideas to improve this project from you! The core team at Digitator working on OpenAuto is very passionate about the direction of the service, and thus we are seeking fix contributions from all over the globe.
 
-If you have anything you'd like to contribute, we encourage you to  writing it down. The steps are described [below](#Workflow).
+If you have anything you'd like to contribute, we encourage you to  writing it down. The steps are described [below](#workflow).
 
 ### Code of conduct.
 
