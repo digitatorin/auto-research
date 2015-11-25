@@ -39,9 +39,9 @@ In the following way you can contribute.
 Become an investor .
 2.  
 Send us some bitcoins .
-3. 
+3.  
 Send us some dogecoins .
-4. 
+4.  
 Send us some namecoins .
 
 ### Become an investor
