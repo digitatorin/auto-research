@@ -1,6 +1,8 @@
 # How to Contribute
-
-## Contributing by suggesting idea
+Contributions are essential for realizing this research. Here are the ways you can contribute to OpenAuto project.
+1. Contributing by suggesting an idea
+2. Contributing by donations
+## Contributing by suggesting an idea
 
 We'd love to get ideas to improve this project from you! The core team at Digitator working on OpenAuto is very passionate about the direction of the service, and thus we are seeking fix contributions from all over the globe.
 
@@ -25,7 +27,7 @@ The workflow that we support:
 8.  Wait for your change to be merged internally by staff
 9.  We will close your suggestion and your feature branch can be deleted
 
-## Donations
+## Contributing by donations
 
 if you are interested in this project, Make donations to realize this research of making auto drivers and their families welthy.
 
