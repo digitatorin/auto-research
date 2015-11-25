@@ -24,3 +24,34 @@ The workflow that we support:
 7.  Work with repo maintainers to get your change reviewed
 8.  Wait for your change to be merged internally by staff
 9.  We will close your suggestion and your feature branch can be deleted
+
+## Donations
+
+if you are interested in this project, Make donations to realize this research of making auto drivers and their families welthy.
+
+In the following way you can contribute.
+1. Become an investor.
+2. Send us some bitcoins
+3. Ssend us some dogecoins
+4. Send us some namecoins
+
+### Become an investor
+
+Being a supporter by investing money will help to pay the cost of the project.
+Please contact us directly if you are interested in realizing the project.
+
+### Send us some bitcoins
+
+Bitcoins are one of the widely used digital currency. 
+Please send some bitcoins; that will help people working on it finding bread.
+Here is the bitcoin address :-{Bitcoin address here}
+
+### Send us some dogecoins
+
+Dogecoin address:- {Dogecoin Address}
+
+### Send us some namecoins
+
+namecoins are widely used for alternative tld.
+Help us to make registration payments.
+Here is our namecoin address:-`NG3bhBX456voM1pSGdTYyYH81wGkHQG3T6`
