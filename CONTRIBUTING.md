@@ -1,5 +1,6 @@
 # How to Contribute
 Contributions are essential for realizing this research. Here are the ways you can contribute to OpenAuto project.
+
 1.  
 Contributing by suggesting an idea.
 2.  
@@ -35,6 +36,7 @@ The workflow that we support:
 if you are interested in this project, Make donations to realize this research of making auto drivers and their families welthy.
 
 In the following way you can contribute.
+
 1.  
 Become an investor .
 2.  
