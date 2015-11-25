@@ -17,8 +17,8 @@ the ongoing development and enhancement of the product and service.
 
 ## Objectives
 
-1. Provide Auto Rickshaw a platform to increase their revenue.
-2. Provide customers easily find and use auto rickshaw rides
+1. Provide auto-rickshaw drivers a platform to increase their revenue.
+2. Provide customers easily find and use auto rickshaw rides.
 3. Provide save rides in both rural and urban areas.
 4. Increase bargain-ability of customer.
 5. Experiment on open source business model.
@@ -27,35 +27,26 @@ the ongoing development and enhancement of the product and service.
 
 ### Expected duration to complete Initial prototype
 
-Within one year, minimum viable product to enter the market.
+We would like to start testing the service with auto drivers and customers in a years time.
 
 ### Income model
 
-planning the income should be from both customer and from the auto driver.
-It will not be a loss for both because of they are getting value for their money.
+We will be exploring multiple sources of income including:
+
+* charging the user of the application/service
+* charging the auto-driver
+* raising funds through other sources - crowd sourcing, donations etc.
 
 ### Expenses Expected
 
-Expenses are divided into the following. 
-1. Server and server maintenance expenses.
-2. Certificates and certification expenses.
-3. Domain and other security related expenses.
-4. Labor expenses.
-    1. For developing the application.
-    2. For developing the infrastructure.
-    3. For maintaining the infrastructure.
-    4. For securing the infrastructure.
+Broadly the main costs of running this will be:
 
+* Development
+* Maintenance - ongoing server hosting cost, systems administration costs
+* Administration, Billing and Operations of the organization
 
 ## Future expansion plans
 
 1. Ride sharing of auto services.
-2. Discounted rides.
+1. Discounted rides.
 
-
-
----
-
-*Please make sure that this is not complete. Please edit, delete and make necessary changes to this.*
-
-** *Please make changes ASAP. Have to submit this to the officials this weekend or very first or second day of the next week* **
