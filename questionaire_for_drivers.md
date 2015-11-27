@@ -17,5 +17,5 @@
 
 
 Questionnaire is updated with new questioins.
-Please goto this (form)[https://docs.google.com/forms/d/1TucZTiN3ye6B5bElOO8bByFQmZhE-1SUCbv9AH2I1yE/] to see in action or to make any changes to it.
+Please goto this [form](https://docs.google.com/forms/d/1TucZTiN3ye6B5bElOO8bByFQmZhE-1SUCbv9AH2I1yE/) to see in action or to make any changes to it.
 
