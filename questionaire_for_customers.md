@@ -31,7 +31,7 @@
 25. Do you have any remarks ?
 
 
-Please follow (this link)[https://docs.google.com/forms/d/1ZhVelqQXxUWkLiesQTAf_tmiPaWea2s__XusrAPXjBk/] to see this form in action.
+Please follow [this link](https://docs.google.com/forms/d/1ZhVelqQXxUWkLiesQTAf_tmiPaWea2s__XusrAPXjBk/) to see this form in action.
 
 
 
