@@ -47,6 +47,7 @@ Send us some dogecoins .
 Send us some namecoins .
 5. 
 Send us some test devices.
+
 ### Become an investor
 
 Being a supporter by investing money will help to pay the cost of the project.
