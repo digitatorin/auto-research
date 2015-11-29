@@ -45,6 +45,8 @@ Send us some bitcoins .
 Send us some dogecoins .
 4.  
 Send us some namecoins .
+5. 
+Send us some test devices.
 
 ### Become an investor
 
@@ -66,3 +68,8 @@ Dogecoin address:- {Dogecoin Address}
 namecoins are widely used for alternative tld.
 Help us to make registration payments.
 Here is our namecoin address:-`NG3bhBX456voM1pSGdTYyYH81wGkHQG3T6`
+### Send us some test devices
+There will be a wide range of devices have to check varying from Nokia S40, S60, Androids to Jolla.
+After collecting whole questionnaire, we can short list the platforms to target. 
+After that, sending us unused devices for testing will help us to test app in real device.
+
