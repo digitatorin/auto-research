@@ -37,3 +37,13 @@ Further ideas for expanding the service:
 
 * [Ride sharing](ride_share_idea.md) - Customers can opt for ride sharing and perhaps pay a lower fee? The auto driver can also get a little more income by ride sharing. Since by filling up the auto they will get more money per trip that they make.
 * [Delivery Service](delivery_service_idea.md) - The autos can also double up as delivery service.
+
+
+# Key differentiators
+
+The service will offer the following services which will be different from other services currently being offered.
+
+* Open source app and server - Providing a greater degree of transparency about what kinds of data gets collected by the system.
+* Co-operatively owned and operated - Users will be supporting local auto drivers and business rather than large anonymous corporations with questionable ethics.
+* The service can allow auto drivers to select a home base, and towards the end of their shift assign rides which are getting them closer towards their home. (Should ask if this will be enough of a differentiator for auto drivers in the questionnaire? They will probably say yes in large cities like Bangalore, maybe not so much in smaller towns)
+* The service can allow for bidding or bonus system. Passengers who are finding it hard to find an auto can broadcast a voluntary 'bonus' that they will pay for reaching their destination. Auto drivers can accept or reject these offers.
