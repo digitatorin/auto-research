@@ -1,3 +1,10 @@
+# Goals
+
+Beyond the obvious statistics we want to know:
+
+* will drivers and co-operatives be interested in running a service which they will own and operate. rather than depending on some other company which might change their pricing and incentives at anytime?
+* do they have any concerns about their data being used by Ola. can we explore the idea that the data they gather and collect from their autos can then be selectively sold by them to interested parties - say institutions and organizations working on urban planning and things like that.
+
 # Questionaire for Drivers
 1. Is this auto owned by you?
     1. If no, then how much you have you pay to the owner to the auto owner ?
