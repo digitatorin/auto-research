@@ -6,7 +6,7 @@
 * [Revenue model](revenue_model.md)
 * [Other Companies](other_companies.md)
 * [Questionaire for Drivers](economics/questionaire_for_drivers.md)
-* [Questionaire for Customers](questionaire_for_customers.md)
+* [Questionaire for Customers](economics/questionnaire_for_customers.md)
 * [Synopsis](synopsis.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 
