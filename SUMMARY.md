@@ -1,7 +1,5 @@
 # Summary
 ## Introduction
-* [Research](research.md)
-* [Delivery Service Idea](delivery_service_idea.md)
 * [Introduction](README.md)
 * [Revenue model](revenue_model.md)
 * [Other Companies](other_companies.md)
@@ -16,3 +14,6 @@
 ## Architecture
 * [Application](architecture/app/README.md)
 * [Server](architecture/server/README.md)
+### Future Ideas for Implimentation
+* [Ride Sharing Idea](architecture/ride_sharing_idea.md)
+* [Delivery Service](architecture/delivery_service_idea.md)
