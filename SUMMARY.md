@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Revenue model](economics/revenue_model.md/Revenue Model)
+* [Revenue model](economics/revenue_model.md)
 * [Other Companies](other_companies.md)
 * [Synopsis](synopsis.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
