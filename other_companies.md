@@ -32,3 +32,5 @@ to the driver who are willing to serve.
 Rixi is the real reval for Uber in Pakistan, Karachi. They are using the same text message facility to serve, just like 
 Easy Auto. They are succesfully running their service without the problem of technology adoption. International newpappers
 have had featured their story.
+## LaZooz
+Lazooz is a decentralized distributed structured ride sharing service. this is not adopted by many.
