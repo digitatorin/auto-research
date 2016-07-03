@@ -11,4 +11,5 @@
 * [Questionaire for Customers](economics/questionnaire_for_customers.md)
 * [Application](architecture/app/README.md)
 * [Server](architecture/server/README.md)
+* [Minimum Viable Product](architecture/minimum_viable_product.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
