@@ -1,11 +1,15 @@
 # Summary
 
-* [Research](research.md)
-* [Delivery Service Idea](delivery_service_idea.md)
 * [Introduction](README.md)
-* [Revenue model](revenue_model.md)
-* [Questionaire for Drivers](questionaire_for_drivers.md)
-* [Questionaire for Customers](questionaire_for_customers.md)
 * [Synopsis](synopsis.md)
+* [Revenue model](economics/revenue_model.md)
+* [Other Companies](other_companies.md)
+* [Economics Introduction](economics/README.md)
+* [Questionaire for Drivers](economics/questionnaire_for_drivers.md)
+* [Ride Sharing Idea](economics/ride_share_idea.md)
+* [Delivery Service](economics/delivery_service_idea.md)
+* [Questionaire for Customers](economics/questionnaire_for_customers.md)
+* [Application](architecture/app/README.md)
+* [Server](architecture/server/README.md)
+* [Minimum Viable Product](architecture/minimum_viable_product.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
