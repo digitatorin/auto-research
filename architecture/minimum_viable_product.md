@@ -2,6 +2,24 @@
 The mvp should be so simple as it should be. There are so many alternatives.
 In my idea, The minimum viable product is as follows
 
+## Overview
+
+Just listing out in terms of the overall service, what are the minimum set of features that would provide a product which people can use.
+
+* Customer can request a ride from their current location.
+* Service provider can accept a ride request.
+* If a customer is not matched with a service provider then perhaps they can offer a bonus or incentive - an auto-surge price in a sense. That bonus is broadcast to the service providers.
+* Server admins should be able to register service providers and be able to administer the account, suspend, activate etc.
+* Once a ride has ended a customer should be able to rate the service provider, and the service provider should be able to rate the customer.
+
+### Misc
+
+Other features which would be nice to have:
+
+* Customer can view histories of past rides.
+* Customer can favorite service providers.
+
+
 ## Server
 Backend server should be capable of recieving a request with current location from end user. Response of the request is list of auto rickshaws around current location. 
 
